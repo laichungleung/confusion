@@ -76,24 +76,22 @@ body{
 
 .modal-header {
 	background-color: $background-dark;
-	
+
 	.modal-title {
 		color: floralwhite ;
 	};
-	
+
     button.close {
         color: floralwhite;
-        
+
         &:hover {
             color:floralwhite!important;
-            
+
         }
-        
-    };			
-}	
+
+    };
+}
 
 .modal-body {
 	background-color: $background-pale;
 }
-
-
